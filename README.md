@@ -21,7 +21,7 @@
 ## About Me
 - 🧠 Just do it advocate
 - 🎓 Tech educator creating programming courses on Bilibili
-- 🚀 Enthusiast of "vibe coding" with Cursor and Claude as my exploration tools
+- 🚀 Enthusiast of "vibe coding" with codex as my exploration tools
 
 ## Technologies & Skills
 - **AI & Deep Learning**: PyTorch, Model Fine-tuning, Neural Networks
